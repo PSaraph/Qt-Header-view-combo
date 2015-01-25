@@ -1,0 +1,34 @@
+<bookstore NM="Booklist">
+<book NM="Book1" AUT="Author1" PUB="Publisher1" PG="350" YR="2001" />
+<book NM="Book11" AUT="Author2" PUB="Publisher1" PG="450" YR="2005" />
+<book NM="Book12" AUT="Author1" PUB="Publisher2" PG="350" YR="2011" />
+<book NM="Book1" AUT="Author5" PUB="Publisher1" PG="550" YR="2012" />
+<book NM="Book11" AUT="Author2" PUB="Publisher1" PG="350" YR="2010" />
+<book NM="Book13" AUT="Author17" PUB="Publisher2" PG="330" YR="2003" />
+<book NM="Book15" AUT="Author8" PUB="Publisher1" PG="350" YR="2002" />
+<book NM="Book1e" AUT="Author4" PUB="Publisher1" PG="350" YR="2005" />
+<book NM="Book1f" AUT="Author2" PUB="Publisher1" PG="320" YR="2004" />
+<book NM="Book13" AUT="Author7" PUB="Publisher3" PG="360" YR="2003" />
+<book NM="Book1g" AUT="Author2" PUB="Publisher1" PG="880" YR="2006" />
+<book NM="Book1b" AUT="Author8" PUB="Publisher3" PG="350" YR="2008" />
+<book NM="Book15" AUT="Author9" PUB="Publisher1" PG="750" YR="2009" />
+<book NM="Book1d" AUT="Author2" PUB="Publisher5" PG="350" YR="2003" />
+<book NM="Book1x" AUT="Author7" PUB="Publisher6" PG="340" YR="2007" />
+<book NM="Book1s" AUT="Author2" PUB="Publisher1" PG="350" YR="2002" />
+<book NM="Book17" AUT="Author7" PUB="Publisher1" PG="360" YR="2009" />
+<book NM="Book13" AUT="Author8" PUB="Publisher5" PG="350" YR="2011" />
+<book NM="Book1h" AUT="Author33" PUB="Publisher3" PG="350" YR="2015" />
+<book NM="Book1j" AUT="Author6" PUB="Publisher1" PG="380" YR="2014" />
+<book NM="Book1d" AUT="Author22" PUB="Publisher55" PG="350" YR="2012" />
+<book NM="Book15" AUT="Author14" PUB="Publisher1" PG="350" YR="2003" />
+<book NM="Book1s" AUT="Author8" PUB="Publisher1" PG="390" YR="2006" />
+<book NM="Book1f" AUT="Author4" PUB="Publisher33" PG="350" YR="2007" />
+<book NM="Book1v" AUT="Author22" PUB="Publisher1" PG="450" YR="2002" />
+<book NM="Book1ds" AUT="Author7" PUB="Publisher66" PG="350" YR="2007" />
+<book NM="Book1f" AUT="Author3" PUB="Publisher1" PG="650" YR="2002" />
+<book NM="Book1s" AUT="Author17" PUB="Publisher23" PG="350" YR="2006" />
+<book NM="Book1f" AUT="Author2" PUB="Publisher1" PG="350" YR="2002" />
+<book NM="Book1sd" AUT="Author3" PUB="Publisher1" PG="750" YR="2008" />
+<book NM="Bookf1" AUT="Author7" PUB="Publisher4" PG="350" YR="2004" />
+<book NM="Books1" AUT="Author8" PUB="Publisher1" PG="350" YR="2005" />
+</bookstore>
